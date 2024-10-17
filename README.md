@@ -1,0 +1,1 @@
+Esse site consome a API de OpenWeather para retornar a temperatura, umidade e o estado das nuvens de uma cidade digitada. Caso a cidade não pode ser encontrada pelo API, o site não irá registrar os dados.
